@@ -189,8 +189,8 @@ predictions = model.predict(X_new)
 ## 🙋 Author
 
 **Honey**
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin](https://www.linkedin.com/in/honey-rana-6748b938a?utm_source=share_via&utm_content=profile&utm_medium=member_ios))]
-[![GitHub]([https://img.shields.io/badge/GitHub-Follow-black?logo=github](https://github.com/Honey5632))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/honey-rana-6748b938a)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Honey5632)
 
 ---
 
